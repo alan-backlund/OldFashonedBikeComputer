@@ -1,0 +1,7 @@
+Using STMicroelectronics STM32CubeIDE create a project based on the "Bike Computer Cpp.ioc" file.
+After the project has been created add the files in Inc, except for main.h, to the projects Core/Inc directory.
+Add the files in Src, except for main.c, to the projects Core/Src directory.
+Merge the main.h and main.c files with the files of the same name in the project.
+Build the Release configuration.
+The Debug configuration will not build because it is too large.
+
